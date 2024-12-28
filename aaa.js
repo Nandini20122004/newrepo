@@ -1,3 +1,1 @@
-<script>
-    hello
-</script>
+console.log("Hello, World!");
